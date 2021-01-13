@@ -1,5 +1,6 @@
 ## 由于发现这个项目用途的确不大，现停止更新维护！
-## 个人博客地址：https://klsf.cc
+## 个人博客地址：https://youte.ml
+## 示例: http://dns.yu-4k.ml
 
 # 快乐二级域名分发系统 （kldns v3.1.0）
 
@@ -49,7 +50,7 @@
 1、如果你需要程序支持其他域名解析平台，且该平台有api接口，可以联系我，我尽量添加！
 2、在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 
-* Github:https://github.com/klsf/kldns
-* 邮件(815856515#qq.com, 把#换成@)
-* QQ: 815856515
-* QQ交流群：[383286818](http://shang.qq.com/wpa/qunwpa?idkey=5c50f31eb84481f05bbbeca6a0759a2e9763118f04dce5c6ca2e23652cb2a58b")
+* Github:https://github.com/jing5460/kldns
+* 邮件(173041547#qq.com, 把#换成@)
+* QQ: 173041547
+* QQ交流群：[56865213](https://jq.qq.com/?_wv=1027&k=mtxO2Iu9")
