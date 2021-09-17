@@ -1,5 +1,5 @@
 ## 由于发现这个项目用途的确不大，现停止更新维护！
-## 个人博客地址：https://youte.ml
+## 个人导航地址：https://youte.ml
 ## 示例: http://dns.yu-4k.ml
 
 # 快乐二级域名分发系统 （Dns v3.1.0）
@@ -51,7 +51,7 @@
 2、在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 
 
-* Github:https://github.com/jing5460/kldns
+* Github:https://github.com/jing5460/Dns_cn
 * 邮件(173041547#qq.com, 把#换成@)
 * QQ: 173041547
 * QQ交流群：[56865213](https://jq.qq.com/?_wv=1027&k=mtxO2Iu9")
